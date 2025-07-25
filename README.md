@@ -51,12 +51,19 @@ Content Creator Agent is an AI-driven, fully autonomous end-to-end system for SE
 
 ### Progress Reporter Agent
 
-Progress Reporter Agent is...
+Progress Reporter Agent is a fully autonomous AI agent that collects, analyzes, and delivers structured project updates — saving time and keeping teams and stakeholders aligned.
 
 ![progressreporteragent](/img/progressreporteragent.gif)
 
 **Features:** 
 - Integration with messengers
+- Understands user requests to identify the context needed for the report
+- Automated task extraction from Jira based on filters (project, date range, sprint, etc.)
+- Collects metrics based on data gathered from Jira
+- AI-generated summaries of task progress, blockers, and key updates
+- Visual reports with charts and dashboards made by Metabase
+- Enables dynamic interaction with reports for filtering progress data and metrics
+- Full automation of the reporting workflow
 
 **Used:** n8n, GPT-4o, PostgreSQL, Jira, Metabase, Telegram
 
