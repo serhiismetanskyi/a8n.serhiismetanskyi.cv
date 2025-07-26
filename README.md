@@ -30,7 +30,7 @@ Content Creator Agent is an AI-driven, fully autonomous end-to-end system for SE
 
 **Features:** 
 - Integration with messengers
-- Website analysis to identify content topics based on business niche
+- Website analysis by LLM to identify content topics based on business niche
 - Trend analysis via Perplexity AI to generate content ideas based on business niche
 - Automated SEO content plan generation powered by LLM
 - SEO content writing by LLM based on the content plan
