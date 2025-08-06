@@ -10,7 +10,7 @@ I build automations that run 24/7, reliably and autonomously — no manual input
 
 I keep it simple — using only the tools that fit your goals and make things easier.
 
-**Contact:** | [Telegram](https://t.me/serhiismetanskyi) | [LinkedIn](https://www.linkedin.com/in/serhiismetanskyi/) | serhii.smetanskyi[at]gmail.com | [CV](https://serhiismetanskyi.cv/) |
+**Contact:** | [Telegram](https://t.me/serhiismetanskyi) | [LinkedIn](https://www.linkedin.com/in/serhiismetanskyi/) | mail[at]serhiismetanskyi.cv | [CV](https://serhiismetanskyi.cv/) |
 
 ## Cases
 
