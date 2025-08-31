@@ -1,3 +1,5 @@
+![cover](/img/cover.png)
+
 ## Serhii Smetanskyi
 
 **Automation Engineer • AI Agent Builder • Workflow Designer**
@@ -84,7 +86,5 @@ Bug Creator Agent is an autonomous AI agent that automates the creation of bug r
 - Ticket creation in Jira
 
 **Used:** n8n, GPT-4o, Jira, Google Docs, Telegram
-
-![cover](/img/cover.png)
 
 © 2025 Serhii Smetanskyi
