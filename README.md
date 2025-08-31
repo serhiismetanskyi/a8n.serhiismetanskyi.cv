@@ -85,6 +85,6 @@ Bug Creator Agent is an autonomous AI agent that automates the creation of bug r
 
 **Used:** n8n, GPT-4o, Jira, Google Docs, Telegram
 
-![cover](cover.png)
+![cover](/img/cover.png)
 
 © 2025 Serhii Smetanskyi
