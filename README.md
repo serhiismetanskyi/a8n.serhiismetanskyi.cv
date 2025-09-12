@@ -4,6 +4,10 @@
 
 **Automation Engineer • AI Agent Builder • Workflow Designer**
 
+[About](#about) | [Services](#services) | [Cases](#cases)
+
+## About
+
 I'm an Automation Engineer with a strong background in Quality Assurance and Software Development. I specialize in creating AI agents and Automated Workflows that eliminate routine tasks, optimize processes, and reduce time and resource waste.
 
 With hands-on experience in Software Development, I design automations that are not only efficient — but also robust, scalable, and easy to maintain.
