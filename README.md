@@ -14,6 +14,12 @@ I keep it simple — using only the tools that fit your goals and make things ea
 
 **Contact:** | [Telegram](https://t.me/serhiismetanskyi) | [LinkedIn](https://www.linkedin.com/in/serhiismetanskyi/) | mail[at]serhiismetanskyi.cv | [CV](https://serhiismetanskyi.cv/) |
 
+## Services
+
+- **Web Scraping and Parsing** — Flexible solutions for structuring and consolidating data collected from open unstructured sources.
+- **AI Agents and Assistance** — AI-powered chatbots and workflows built on your own data for natural, human-like conversations.
+- **Integrations** — Connecting diverse applications and APIs for streamlined data exchange and workflow efficiency.
+
 ## Cases
 
 [Content](#content) | [Tools](#tools)
