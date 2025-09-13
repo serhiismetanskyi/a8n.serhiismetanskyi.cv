@@ -26,7 +26,14 @@ I keep it simple — using only the tools that fit your goals and make things ea
 
 ## Cases
 
-[Content](#content) | [Tools](#tools)
+[Finance](#finance) | [Content](#content) | [Tools](#tools)
+
+## Finance
+- [Cost Tracker Agent](#cost-tracker-agent)
+
+### Cost Tracker Agent
+
+![costtrackeragenticon](/img/costtrackeragenticon.png)
 
 ## Content
 
