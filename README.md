@@ -31,9 +31,27 @@ I keep it simple — using only the tools that fit your goals and make things ea
 ## Finance
 - [Cost Tracker Agent](#cost-tracker-agent)
 
+![costtrackeragenticon](/img/costtrackeragenticon.png)
+
 ### Cost Tracker Agent
 
-![costtrackeragenticon](/img/costtrackeragenticon.png)
+Cost Tracker Agent is an AI-powered system that manages your expenses automatically. It records expenses from natural language, sorts them by category and vendor, gathers the data, and provides clear financial insights, giving you full control of your finances in real time.
+
+![costtrackeragent](/img/costtrackeragent.jpg)
+
+**Features:** 
+- Integration with messengers
+- Automatic classification of user requests into expense recording or data retrieval
+- Natural language processing for extracting expense data from user messages
+- Intelligent request classification and routing
+- AI-powered category and vendor creation and management from user input
+- Intelligent vendor recognition with automatic vendor profile creation
+- Conversion of natural language queries into precise SQL database queries
+- Advanced expense filtering and retrieval via SQL query generation
+- Comprehensive spending analytics with category and vendor breakdowns
+- Data isolation and privacy protection through chat-based filtering
+
+**Used:** n8n, Gemini, PostgreSQL, Telegram
 
 ## Content
 
