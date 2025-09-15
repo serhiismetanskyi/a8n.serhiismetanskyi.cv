@@ -37,7 +37,7 @@ I keep it simple — using only the tools that fit your goals and make things ea
 
 Cost Tracker Agent is an AI-powered system that manages your expenses automatically. It records expenses from natural language, sorts them by category and vendor, gathers the data, and provides clear financial insights, giving you full control of your finances in real time.
 
-![costtrackeragent](/img/costtrackeragent.jpg)
+![costtrackeragent](/img/costtrackeragent.gif)
 
 **Features:** 
 - Integration with messengers
