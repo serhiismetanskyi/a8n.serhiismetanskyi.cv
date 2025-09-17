@@ -26,7 +26,22 @@ I keep it simple — using only the tools that fit your goals and make things ea
 
 ## Cases
 
-[Finance](#finance) | [Content](#content) | [Tools](#tools)
+[Testing](#testing) | [Finance](#finance) | [Content](#content) | [Tools](#tools)
+
+## Testing
+- [Postman Tests Generator Agent](#postman-tests-generator-agent)
+
+![postmantestgenagent](/img/postmantestgenagent.png)
+
+### Postman Tests Generator Agent
+
+TBD
+
+**Features:** 
+- TBD
+
+**Used:**
+
 
 ## Finance
 - [Cost Tracker Agent](#cost-tracker-agent)
