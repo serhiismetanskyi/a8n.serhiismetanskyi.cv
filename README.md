@@ -38,12 +38,24 @@ I keep it simple — using only the tools that fit your goals and make things ea
 
 ### Postman Tests Generator Agent
 
+Postman Tests Generator Agent is an AI-powered tool that automatically transforms your OpenAPI/Swagger specifications into structured Postman collections with comprehensive tests, validations, and smart organization. It streamlines API testing and saves valuable time for developers and QA teams.
+
 | [Demo on Youtube](https://youtu.be/WOxMKcrGs5o) |
 
 **Features:** 
-- TBD
+- Upload API spec file or describe your API in plain English via Telegram bot
+- Deep API analysis with intelligent parsing of OpenAPI/Swagger specs
+- AI-powered processing of API structure into detailed Postman test scenarios 
+- Automatic creation of complete Postman test collections with production-ready coverage  
+- Automatic generation of Postman environments with predefined variables
+- Smart organization of requests with logical folder structures and endpoint grouping
+- Comprehensive test generation (positive, negative, edge case scenarios)
+- JSON schema validation for request and response bodies
+- Automatic setup of environment variables (base URLs, API keys, configurable values)
+- Ready-to-use Postman collection export for instant usage
+- Automatic import into Postman of generated collections with tests and environments  
 
-**Used:**
+**Used:** n8n, Gemini, Postman, Telegram
 
 
 ## Finance
