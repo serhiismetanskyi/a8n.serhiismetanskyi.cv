@@ -31,11 +31,11 @@ I keep it simple — using only the tools that fit your goals and make things ea
 ## Testing
 - [Postman Tests Generator Agent](#postman-tests-generator-agent)
 
-![postmantestgenagent](/img/postmantestgenagent.png)
+![postmantestgenagent](/img/postmantestgenagenticon.png)
 
 ### Postman Tests Generator Agent
 
-TBD
+| [Demo on Youtube](https://youtu.be/WOxMKcrGs5o) |
 
 **Features:** 
 - TBD
@@ -52,7 +52,7 @@ TBD
 
 Cost Tracker Agent is an AI-powered system that manages your expenses automatically. It records expenses from natural language, sorts them by category and vendor, gathers the data, and provides clear financial insights, giving you full control of your finances in real time.
 
-![costtrackeragent](/img/costtrackeragent.gif)
+| [Demo on Youtube](https://youtu.be/5PF7ox-uqhc) |
 
 **Features:** 
 - Integration with messengers
@@ -78,7 +78,7 @@ Cost Tracker Agent is an AI-powered system that manages your expenses automatica
 
 Content Creator Agent is an AI-driven, fully autonomous end-to-end system for SEO content generation, handling everything from creating trending content to automatic website posting.
 
-![contentcreatoragent](/img/contentcreatoragent.gif)
+| [Demo on Youtube](https://youtu.be/Iv2PuO7kMPk) |
 
 **Features:** 
 - Integration with messengers
@@ -105,7 +105,7 @@ Content Creator Agent is an AI-driven, fully autonomous end-to-end system for SE
 
 Progress Reporter Agent is a fully autonomous AI agent that collects, analyzes, and delivers structured project updates — saving time and keeping teams and stakeholders aligned.
 
-![progressreporteragent](/img/progressreporteragent.gif)
+| [Demo on Youtube](https://youtu.be/viRawoJhy3A) |
 
 **Features:** 
 - Integration with messengers
@@ -125,7 +125,7 @@ Progress Reporter Agent is a fully autonomous AI agent that collects, analyzes, 
 
 Bug Creator Agent is an autonomous AI agent that automates the creation of bug reports in Jira.
 
-![bugcreatoragent](/img/bugcreatoragent.gif)
+| [Demo on Youtube](https://youtu.be/z_TGHZrp938) |
 
 **Features:** 
 - Integration with messengers  
