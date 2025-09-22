@@ -7,8 +7,6 @@
 
 [About](#about) | [Services](#services) | [Cases](#cases)
 
----
-
 ## About
 
 I'm an Automation Engineer with a strong background in Quality Assurance and Software Development. I specialize in creating AI agents and Automated Workflows that eliminate routine tasks, optimize processes, and reduce time and resource waste.
@@ -151,7 +149,5 @@ Bug Creator Agent is an autonomous AI agent that automates the creation of bug r
 - Ticket creation in Jira
 
 **Used:** n8n, GPT-4o, Jira, Google Docs, Telegram
-
----
 
 © 2025 Serhii Smetanskyi
