@@ -40,7 +40,7 @@ I keep it simple — using only the tools that fit your goals and make things ea
 
 Postman Tests Generator Agent is an AI-powered tool that automatically transforms your OpenAPI/Swagger specifications into structured Postman collections with comprehensive tests, validations, and smart organization. It streamlines API testing and saves valuable time for developers and QA teams.
 
-| [Demo on Youtube](https://youtu.be/WOxMKcrGs5o) |
+| [Demo on Youtube](https://youtu.be/ujOUqwBA5Uw) |
 
 **Features:** 
 - Upload API spec file or describe your API in plain English via Telegram bot
