@@ -32,7 +32,7 @@ I keep it simple — using only the tools that fit your goals and make things ea
 ## Testing
 - [Postman Tests Generator Agent](#postman-tests-generator-agent)
 
-![postmantestgenagent](/img/postmantestgenagenticon.png)
+![postmantestgenagent](/img/postmantestgenagent.png)
 
 ### Postman Tests Generator Agent
 
