@@ -59,7 +59,7 @@ Postman Tests Generator Agent is an AI-powered tool that automatically transform
 ## Finance
 - [Cost Tracker Agent](#cost-tracker-agent)
 
-![costtrackeragenticon](/img/costtrackeragenticon.png)
+![costtrackeragenticon](/img/costtrackeragent.png)
 
 ### Cost Tracker Agent
 
