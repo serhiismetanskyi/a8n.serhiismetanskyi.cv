@@ -1,6 +1,3 @@
-
-![cover](/img/cover.png)
-
 ## Serhii Smetanskyi
 
 **Automation Engineer • AI Agent Builder • Workflow Designer**
