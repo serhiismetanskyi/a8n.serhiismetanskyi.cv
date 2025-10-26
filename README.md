@@ -82,7 +82,7 @@ Cost Tracker Agent is an AI-powered system that manages your expenses automatica
 
 - [Content Creator Agent](#content-creator-agent)
 
-![contentcreatoragenticon](/img/contentcreatoragenticon.png)
+![contentcreatoragent](/img/contentcreatoragent.png)
 
 ### Content Creator Agent
 
@@ -109,7 +109,7 @@ Content Creator Agent is an AI-driven, fully autonomous end-to-end system for SE
 - [Progress Reporter Agent](#progress-reporter-agent)
 - [Bug Creator Agent](#bug-creator-agent)
 
-![progressreporteragenticon](/img/progressreporteragenticon.png)
+![progressreporteragent](/img/progressreporteragent.png)
 
 ### Progress Reporter Agent
 
@@ -129,7 +129,7 @@ Progress Reporter Agent is a fully autonomous AI agent that collects, analyzes, 
 
 **Used:** n8n, GPT-4o, PostgreSQL, Jira, Metabase, Telegram
 
-![bugcreatoragenticon](/img/bugcreatoragenticon.png)
+![bugcreatoragent](/img/bugcreatoragent.png)
 
 ### Bug Creator Agent
 
