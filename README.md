@@ -24,7 +24,7 @@ I keep it simple — using only the tools that fit your goals and make things ea
 
 ## Cases
 
-[Management](#management) | [Testing](#testing) | [Finance](#finance) | [Content](#content) | [Tools](#tools)
+[Management](#management) | [Testing](#testing) | [Finance](#finance) | [Content](#content) | [Tools](#tools) | [Parsers](#parsers)
 
 ## Management
 - [SEO Task Creator Agent](#seo-task-creator-agent)
@@ -178,5 +178,27 @@ Bug Creator Agent is an autonomous AI agent that automates the creation of bug r
 - Ticket creation in Jira
 
 **Used:** n8n, GPT-4o, Jira, Google Docs, Telegram
+
+## Parsers
+- [Government Data Parser](#government-data-parser)
+
+![governmentdataparser](/img/governmentdataparser.png)
+
+### Government Data Parser
+
+Government Data Parser is a tool that automates data retrieval from government registries, streamlining access to official information and documents. It provides a fully automated pipeline for monitoring, collecting, and managing registry data, ensuring accuracy, compliance, and efficiency.
+
+**Features:** 
+- Integration with messengers
+- Fully automated process for retrieving data from multiple government registries
+- Continuous monitoring of registries for new or updated information with instant notifications
+- Document downloader that retrieves files based on type, ownership, and registry classification
+- Validation checks at every stage to prevent duplicates and maintain data integrity
+- Data normalization and structured formatting for easier analysis and processing
+- Scheduled and on-demand parsing to accommodate real-time or batch processing
+- API-ready outputs for integration with other tools, dashboards, or automation workflows
+- Logging of errors and intelligent retries to ensure data completeness in case of failures
+
+**Used:** n8n,  Google Docs, Telegram
 
 © 2025 Serhii Smetanskyi
