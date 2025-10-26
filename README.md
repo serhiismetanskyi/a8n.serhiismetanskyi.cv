@@ -24,7 +24,39 @@ I keep it simple — using only the tools that fit your goals and make things ea
 
 ## Cases
 
-[Testing](#testing) | [Finance](#finance) | [Content](#content) | [Tools](#tools)
+[Management](#management) | [Testing](#testing) | [Finance](#finance) | [Content](#content) | [Tools](#tools)
+
+## Management
+- [SEO Task Creator Agent](#seo-task-creator-agent)
+
+![seotaskcreatoragent](/img/seotaskcreatoragent.png)
+
+### SEO Task Creator Agent
+
+SEO Task Creator Agent is an intelligent automation system that seamlessly connects SEO specialists and copywriters, transforming task creation and content management into a fully streamlined process. It operates as a comprehensive task management system, where human experts and AI agents work together in a single coordinated workflow, managing every stage from task initiation to content generation and final approval.
+
+The agent automatically creates SEO content briefs (Technical Specifications) in Google Docs with all essential SEO attributes and details — keywords, competitor analysis, LSI suggestions, metadata, and structured content checklists — to fully automate the process of assigning tasks to copywriters while accounting for all SEO requirements and project-specific guidelines.
+
+| [Demo on Youtube](https://youtu.be/lFKhpE-BZ-4) |
+
+**Features:**
+- Single point of task management directly in the messenger
+- Smart coordination between SEO specialists, copywriters, and AI agents
+- Automatic task status management across all workflow stages
+- Dynamic deadline calculation based on task priority and context
+- Automatic determination of the next workflow stage based on current task status
+- Automatically analyzes competitor pages to gather insights, content structure, and keywords for AI-generated content
+- Automatic SEO brief generation in Google Docs with full metadata and keyword context
+- Primary and secondary automated content validation according to predefined quality checklists
+- AI-powered recommendations for SEO optimization, keyword usage, and structure
+- Automatic content improvement and refinement using LLM-powered analysis
+- Overdue task alerts to administrators when status remains unchanged for >24 hours
+- Full user management with role-based access control and permissions
+- Prompt management module for AI agents to customize generation rules per project
+- Comprehensive logging and action tracking across the system
+- Intelligent, role-based and personalized notifications throughout all workflow stages
+
+**Used:** n8n, GPT-4o, FireCrawl, Google Docs, Telegram
 
 ## Testing
 - [Postman Tests Generator Agent](#postman-tests-generator-agent)
