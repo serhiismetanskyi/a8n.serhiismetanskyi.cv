@@ -1,4 +1,4 @@
-![avatar](avatar.jpeg)
+![avatar](/img/avatar.jpeg)
 
 ## Serhii Smetanskyi
 
