@@ -22,7 +22,7 @@ I keep it simple — using only the tools that fit your goals and make things ea
 
 - **Web Scraping and Parsing** — Flexible solutions for structuring and consolidating data collected from open unstructured sources.
 - **AI Agents and Assistance** — AI-powered chatbots and workflows built on your own data for natural, human-like conversations.
-- **Business Process and Routine Automation** — Automating routine tasks and business processes to enhance productivity and cost efficiency.
+- **Business Process and Routine Automation** — Automating routine tasks and business processes to enhance productivity and reduce operational costs.
 - **Integrations** — Connecting diverse applications and APIs for streamlined data exchange and workflow efficiency.
 
 ## Cases
