@@ -35,9 +35,9 @@ I keep it simple — using only the tools that fit your goals and make things ea
 
 ### Smart Doc Notifier Agent
 
-AI Smart Doc Notifier Agent is an intelligent automation system designed to act as a smart notifier assistant for legal documentation from state registries.The agent automatically scans legal documents from state registries, uses AI to detect required attributes, verify that they meet the necessary rules, and identify any missing documents, then sends context-based email notifications to the user.
+Smart Doc Notifier Agent is an intelligent automation system designed to act as a smart notifier assistant for legal documentation from state registries.The agent automatically scans legal documents from state registries, uses AI to detect required attributes, verify that they meet the necessary rules, and identify any missing documents, then sends context-based email notifications to the user.
 
-AI Smart Doc Notifier Agent is a tool that helps lawyers and finance specialists keep track of changes in monitored documents, making sure they always know about updates and critical information.
+Smart Doc Notifier Agent is a tool that helps lawyers and finance specialists keep track of changes in monitored documents, making sure they always know about updates and critical information.
 
 | [Demo on Youtube](https://youtu.be/) |
 
