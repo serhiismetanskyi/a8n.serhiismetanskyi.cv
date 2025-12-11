@@ -26,7 +26,33 @@ I keep it simple — using only the tools that fit your goals and make things ea
 
 ## Cases
 
-[Management](#management) | [Testing](#testing) | [Finance](#finance) | [Content](#content) | [Tools](#tools) | [Parsers](#parsers)
+[Reminders](#reminders) | [Management](#management) | [Testing](#testing) | [Finance](#finance) | [Content](#content) | [Tools](#tools) | [Parsers](#parsers)
+
+## Reminders
+- [Smart Doc Notifier Agent](#smart-doc-notifier-agent)
+
+![smartdocnotifier](/img/smartdocnotifier.png)
+
+### Smart Doc Notifier Agent
+
+AI Smart Doc Notifier Agent is an intelligent automation system designed to act as a smart notifier assistant for legal documentation from state registries.The agent automatically scans legal documents from state registries, uses AI to detect required attributes, verify that they meet the necessary rules, and identify any missing documents, then sends context-based email notifications to the user.
+
+AI Smart Doc Notifier Agent is a tool that helps lawyers and finance specialists keep track of changes in monitored documents, making sure they always know about updates and critical information.
+
+| [Demo on Youtube](https://youtu.be/) |
+
+**Features:**
+- Automatic monitoring of legal documents from state registries
+- AI-powered analysis to detect required attributes and ensure they meet the rules
+- Identification of missing or incomplete documents relevant to legal or financial processes
+- Context-based email notifications to responsible users
+- Personalized alerts based on document type, status, and urgency
+- Continuous tracking of changes and updates in monitored documents
+- Control to customize document analysis and notification rules for each document type
+- Detailed logging of all document checks and alerts
+- Smart prioritization of notifications based on criticality and deadlines
+
+**Used:** n8n, GPT-5, Google Docs, Email
 
 ## Management
 - [SEO Task Creator Agent](#seo-task-creator-agent)
